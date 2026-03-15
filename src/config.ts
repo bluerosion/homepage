@@ -34,7 +34,7 @@ export const config: Config = {
     },
     {
       name: "BiliBili",
-      url: "https://space.bilibili.com/369280472",
+      url: "https://space.bilibili.com/3493120029231478",
       icon: "mingcute:bilibili-line",
     },
     {
