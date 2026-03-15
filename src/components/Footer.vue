@@ -22,14 +22,14 @@ onMounted(() => {
 <template>
   <footer class="footer" ref="footerRef">
     <span class="footer__line">
-      Made with ❤️ by
-      <a href="https://github.com/lyxofficial" target="_blank">Ariasaka</a>
+      源代码修改自
+      <a href="https://github.com/lyxofficial/ariahomepage" target="_blank">Ariasaka</a>
     </span>
     <span class="footer__line">
-      自豪的使用
+      使用
       <a href="https://github.com/vuejs/core" target="_blank">Vue.js</a> &&
-      <a href="https://github.com/vitejs/vite" target="_blank">Vite</a> ->
-      <a href="https://github.com/lyxofficial/ariahomepage" target="_blank"
+      <a href="https://github.com/vitejs/vite" target="_blank">Vite</a>构建 ->
+      <a href="https://github.com/bluerosion/homepage" target="_blank"
         >主页项目仓库</a
       >
     </span>
