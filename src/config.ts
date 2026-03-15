@@ -1,5 +1,5 @@
 export const config: Config = {
-  title: "Broisaの主页～",
+  title: "Bruisaの主页～",
   author: "Bluerosion",
   avatar: "https://i.lowr.ink/i/2026/03/13/69b3d5b725763.jpg",
   description: "愿你前行的道路  群星闪耀",
