@@ -1,7 +1,7 @@
 export const config: Config = {
   title: "Bruisaの主页～",
   author: "Bluerosion",
-  avatar: "https://i.lowr.ink/i/2026/03/13/69b3d5b725763.jpg",
+  avatar: "http://q.qlogo.cn/headimg_dl?dst_uin=3524309131&spec=5&img_type=webp",
   description: "愿你前行的道路，群星闪耀。愿你走过的旅途，百花绽放。",
   links: [
     {
@@ -53,12 +53,6 @@ export const config: Config = {
   HF_Key: "b7d0932ac6b74cc4af5f0e82693a493e",
   playlistIdWyy: "14195710891",
   tachies: [
-    "https://i.lowr.ink/i/2026/03/14/69b575a5aa274.webp",
-    "https://i.lowr.ink/i/2026/03/14/69b575a963c15.webp","https://i.lowr.ink/i/2026/03/14/69b575ac8c7c1.webp",
-    "https://i.lowr.ink/i/2026/03/14/69b575af32652.webp",
-    "https://i.lowr.ink/i/2026/03/14/69b575b2486d2.webp",
-    "https://i.lowr.ink/i/2026/03/14/69b575b6070a5.webp",
-    "https://i.lowr.ink/i/2026/03/14/69b575bf5a3ff.webp",
   ],
 };
 export interface Link {
