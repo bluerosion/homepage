@@ -10,13 +10,8 @@ export const config: Config = {
       icon: "fa7-solid:blog",
     },
     {
-      name: "image",
-      url: "https://i.lowr.ink",
-      icon: "material-symbols:imagesmode",
-    },
-    {
       name: "Status",
-      url: "https://status.lowr.ink",
+      url: "https://status.bruisa.top",
       icon: "fa:align-left",
     },
     {
