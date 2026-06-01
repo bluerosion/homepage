@@ -6,7 +6,7 @@ export const config: Config = {
   links: [
     {
       name: "Blog",
-      url: "https://blog.lowr.ink",
+      url: "https://blog.bruisa.top",
       icon: "fa7-solid:blog",
     },
     {
