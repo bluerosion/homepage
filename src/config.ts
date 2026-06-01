@@ -1,6 +1,6 @@
 export const config: Config = {
   title: "Bruisaの主页～",
-  author: "Bluerosion",
+  author: "Bruisa",
   avatar: "http://q.qlogo.cn/headimg_dl?dst_uin=3524309131&spec=5&img_type=webp",
   description: "愿你前行的道路，群星闪耀。愿你走过的旅途，百花绽放。",
   links: [
